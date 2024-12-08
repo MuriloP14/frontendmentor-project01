@@ -7,9 +7,9 @@ body {
     padding: 40px 0;
     font-family: 'Young Serif', serif;
 }
-@media (max-width: 375px){
+@media screen and (max-width: 750px){
     .container {
-        width: 375px;
+        width: 30%;
     }
 }
 h2 {
