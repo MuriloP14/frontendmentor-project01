@@ -53,6 +53,13 @@ img {
     border-radius: 10px;
 }
 
+@media screen and (max-width: 600px) {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
 td {
     text-align: left;
     padding: 11px;
